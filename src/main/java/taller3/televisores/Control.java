@@ -44,11 +44,11 @@ public class Control {
 	}
 	
 	// ----- GET Y SET -----
-	public TV getTV() {
+	public TV getTv() {
 		return this.tv;
 	}
 	
-	public void setTV(TV tv) {
+	public void setTv(TV tv) {
 		this.tv = tv;
 	}
 
